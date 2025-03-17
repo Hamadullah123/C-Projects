@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+// code updated. 
 int main(int argc, string argv[])
 {
     // Make sure the program was run with just one command-line argument
